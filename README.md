@@ -88,7 +88,7 @@ minseo_planner/
 ### 1. Clone the repository
 
 
-git clone (https://github.com/Rumki-Khan/minseo-planner)
+git clone https://github.com/Rumki-Khan/minseo-planner
 
 cd minseo-planner
 
