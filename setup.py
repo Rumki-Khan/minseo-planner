@@ -10,6 +10,12 @@ setuptools.setup(
     install_requires=[
         "networkx",
         "matplotlib",
+        "pandas",
+        "numpy",
+        "geopy",
+        "tabulate",
+        "pytest",
+        "setuptools"
     ],
     entry_points={
         "console_scripts": [
