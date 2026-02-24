@@ -88,7 +88,8 @@ minseo_planner/
 ### 1. Clone the repository
 
 
-git clone https://github.com/<your-username>/minseo-planner.git
+git clone (https://github.com/Rumki-Khan/minseo_planner)
+
 cd minseo-planner
 
 ### 2. Create and activate a virtual environment
