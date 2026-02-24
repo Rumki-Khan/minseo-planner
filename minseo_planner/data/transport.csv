@@ -1,0 +1,5 @@
+Mode,Speed,CostPerKm,TransferTime
+Bus,40,2,5
+Train,80,5,2
+Bicycle,15,0,1
+Walking,5,0,0

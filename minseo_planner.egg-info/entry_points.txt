@@ -1,0 +1,2 @@
+[console_scripts]
+minseo-planner = minseo_planner.main:run

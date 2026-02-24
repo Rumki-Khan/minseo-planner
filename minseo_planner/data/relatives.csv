@@ -1,0 +1,11 @@
+Relative,District,Lat,Lon,PreferredDays,PreferredTime,Bonus,Duration
+Relative_1,Gangnam-gu,37.4979,127.0276,"Mon, Thu",18:00-20:00,10,60
+Relative_2,Seocho-gu,37.4833,127.0322,"Wed, Sat",19:00-21:00,8,75
+Relative_3,Gangnam-gu,37.5172,127.0286,"Tue, Fri",18:00-20:00,7,45
+Relative_4,Gangnam-gu,37.5219,127.0411,"Thu, Sun",19:00-21:00,9,60
+Relative_5,Yongsan-gu,37.534,127.0026,"Mon, Sat",18:00-20:00,10,90
+Relative_6,Seongdong-gu,37.5443,127.0557,"Tue, Sun",18:00-20:00,6,60
+Relative_7,Gangnam-gu,37.5172,127.0391,"Fri, Sun",20:00-21:00,8,45
+Relative_8,Jongno-gu,37.58,126.9844,"Wed, Sat",18:00-19:00,7,60
+Relative_9,Gangnam-gu,37.511,127.059,"Tue, Thu",19:00-21:00,9,75
+Relative_10,Songpa-gu,37.5133,127.1028,"Mon, Sun",18:00-20:00,10,60

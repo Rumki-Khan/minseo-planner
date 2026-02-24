@@ -1,0 +1,10 @@
+### Requirements
+
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+geopy>=2.4
+tabulate>=0.9
+networkx>=3.2
+pytest>=7.0
+setuptools>=65.0

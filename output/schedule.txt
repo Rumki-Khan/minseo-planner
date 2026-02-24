@@ -1,0 +1,86 @@
+=== Best Weekly Schedule ===
+
+Day Mon
+  Relative_10 (18:00–19:00)
+    District: Songpa-gu
+    Mode: Start
+    Distance: 0.00 km
+    Travel Time: 0.0 min
+    Cost: 0.00
+
+  Relative_1 (19:07–20:07)
+    District: Gangnam-gu
+    Mode: Train
+    Distance: 6.85 km
+    Travel Time: 7.1 min
+    Cost: 34.25
+
+Day Tue
+  Relative_6 (18:00–19:00)
+    District: Seongdong-gu
+    Mode: Start
+    Distance: 0.00 km
+    Travel Time: 0.0 min
+    Cost: 0.00
+
+  Relative_9 (19:04–20:19)
+    District: Gangnam-gu
+    Mode: Train
+    Distance: 3.71 km
+    Travel Time: 4.8 min
+    Cost: 18.57
+
+Day Wed
+  Relative_8 (18:00–19:00)
+    District: Jongno-gu
+    Mode: Start
+    Distance: 0.00 km
+    Travel Time: 0.0 min
+    Cost: 0.00
+
+  Relative_2 (19:10–20:25)
+    District: Seocho-gu
+    Mode: Train
+    Distance: 11.55 km
+    Travel Time: 10.7 min
+    Cost: 57.75
+
+Day Thu
+  Relative_4 (18:00–19:00)
+    District: Gangnam-gu
+    Mode: Start
+    Distance: 0.00 km
+    Travel Time: 0.0 min
+    Cost: 0.00
+
+Day Fri
+  Relative_3 (18:00–18:45)
+    District: Gangnam-gu
+    Mode: Start
+    Distance: 0.00 km
+    Travel Time: 0.0 min
+    Cost: 0.00
+
+Day Sat
+  Relative_5 (10:00–11:30)
+    District: Yongsan-gu
+    Mode: Start
+    Distance: 0.00 km
+    Travel Time: 0.0 min
+    Cost: 0.00
+
+Day Sun
+  Relative_7 (10:00–10:45)
+    District: Gangnam-gu
+    Mode: Start
+    Distance: 0.00 km
+    Travel Time: 0.0 min
+    Cost: 0.00
+
+
+=== Totals ===
+Total Happiness Bonus: 70.50
+Total Travel Minutes: 652.59
+Total Travel Cost: 110.57
+Fatigue Penalty: 0
+Final Score: 35.66
