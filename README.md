@@ -72,7 +72,7 @@ minseo_planner/
 │   ├── route_map_multi.png
 │   └── ...
 │
-├── tests/
+├── test/
 │   └── test_planner.py
 │
 ├── clean.sh
